@@ -1,0 +1,2 @@
+(su - => password => sudo usermod -aG sudo <username> => su <username> => sudo whoami => (if root) => hostname new_name)
+sudo hostname new_name

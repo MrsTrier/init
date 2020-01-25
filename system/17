@@ -1,0 +1,3 @@
+ssh daria@localhost -p 2222
+
+(Before that, you have to set port forwarding correctly - host port: 2222; guest port 22)
