@@ -1,0 +1,36 @@
+What is IP address of slash16.org?
+
+Use "host slash16.org" or "nslookup slash16.org"
+Result:
+> host slash16.org
+
+slash16.org has address 13.33.242.31
+slash16.org has address 13.33.242.162
+slash16.org has address 13.33.242.74
+slash16.org has address 13.33.242.215
+slash16.org mail is handled by 10 alt4.aspmx.l.google.com.
+slash16.org mail is handled by 5 alt2.aspmx.l.google.com.
+slash16.org mail is handled by 10 alt3.aspmx.l.google.com.
+slash16.org mail is handled by 5 alt1.aspmx.l.google.com.
+slash16.org mail is handled by 1 aspmx.l.google.com.
+
+=====================================================
+
+> nslookup slash16.org
+
+Server:		192.168.50.2
+Address:	192.168.50.2#53
+
+Non-authoritative answer:
+Name:	slash16.org
+Address: 13.33.242.215
+Name:	slash16.org
+Address: 13.33.242.162
+Name:	slash16.org
+Address: 13.33.242.31
+Name:	slash16.org
+Address: 13.33.242.74
+
+Use "whois 13.33.242.31" to find out the provider by IP address.
+
+Provider: Amazon Technologies Inc.

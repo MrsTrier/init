@@ -1,0 +1,5 @@
+{ ifconfig en0 | grep broadcast | awk '{print $6}' & arp -a | awk '{print $2}' ; }
+# a) A broadcast address is an IP address that is used to target all systems on a specific subnet network instead of single hosts.
+# In other words broadcast address allows information to be sent to all machines on a given subnet rather than to a specific machine.
+
+# b) Displays all IP adresses which are part of the same subnet

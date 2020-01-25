@@ -1,0 +1,20 @@
+traceroute: Warning: slash16.org has multiple addresses; using 13.33.242.162
+traceroute to slash16.org (13.33.242.162), 64 hops max, 52 byte packets
+ 1  192.168.20.1 (192.168.20.1)  1.309 ms  0.971 ms  0.951 ms
+ 2  192.168.2.9 (192.168.2.9)  0.253 ms  0.380 ms  0.229 ms
+ 3  83-69-219-253.in-addr.mastertelecom.ru (83.69.219.253)  2.402 ms  3.029 ms  2.362 ms
+ 4  mail.neoresurs.ru (217.67.176.130)  0.572 ms  0.497 ms  0.521 ms
+ 5  217-67-176-205.in-addr.mastertelecom.ru (217.67.176.205)  1.589 ms  1.768 ms  2.342 ms
+ 6  ae11-227.rt.mr.msk.ru.retn.net (87.245.253.69)  1.680 ms  1.309 ms  1.548 ms
+ 7  ae2-5.rt.rad.hki.fi.retn.net (87.245.233.94)  17.891 ms  17.229 ms  16.833 ms
+ 8  52.46.167.62 (52.46.167.62)  18.457 ms  24.864 ms  23.451 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  server-13-33-242-162.hel50.r.cloudfront.net (13.33.242.162)  17.442 ms  17.781 ms  17.825 ms
+
+The name and IP address of the device is 192.168.20.1
